@@ -1,0 +1,23 @@
+{
+  "name": "fibonacci_js",
+  "version": "1.0.0",
+  "main": "fibonacci.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node fibonacci.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewSzo/fibonacci_js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndrewSzo/fibonacci_js/issues"
+  },
+  "homepage": "https://github.com/AndrewSzo/fibonacci_js#readme",
+  "description": ""
+}
